@@ -1,5 +1,5 @@
 # Install
-Download this to your ~/.config/kitty/themes folder
+Download this to your ~/.config/kitty/themes/ folder
 
 Run `kitten theme` and activate it from User themes
 
